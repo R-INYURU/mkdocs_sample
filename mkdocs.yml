@@ -1,0 +1,76 @@
+site_name: Modeling and Fabrication Techniques Class
+site_description: A portfolio documenting my journey through the Modeling and Fabrication Techniques course
+site_author: Student Name
+site_url: https://r-inyuru.github.io/mkdocs_sample/
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs
+    - content.code.annotate
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Daily Activities:
+    - Day 1: daily-activities/day1.md
+    - Day 2: daily-activities/day2.md
+    - Day 3: daily-activities/day3.md
+    - Day 4: daily-activities/day4.md
+    - Day 5: daily-activities/day5.md
+    - Day 6: daily-activities/day6.md
+    - Day 7: daily-activities/day7.md
+    - Day 8: daily-activities/day8.md
+    - Day 9: daily-activities/day9.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+repo_url: https://github.com/R-INYURU/mkdocs_sample
+repo_name: mkdocs_sample
+
+copyright: Copyright &copy; 2024 Student Name

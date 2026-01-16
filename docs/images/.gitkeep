@@ -1,0 +1,7 @@
+# Images Directory
+
+Place your images here. Reference them in markdown files using:
+
+![Alt text](images/your-image.jpg)
+
+Supported formats: JPG, PNG, GIF, SVG

@@ -1,0 +1,131 @@
+# Welcome to My Modeling and Fabrication Journey
+
+## My Story
+
+Welcome to my portfolio documenting my journey through the **Modeling and Fabrication Techniques** class. 
+
+I'm a student passionate about bringing ideas to life through digital modeling and physical fabrication. This course represents an exciting opportunity to bridge the gap between virtual design and tangible reality. Through hands-on projects and daily activities, I'm learning to master the tools and techniques that transform concepts into physical objects.
+
+My interest in modeling and fabrication began when I first discovered the power of 3D design software. The ability to visualize and iterate on designs before committing to physical materials opened up a world of possibilities. Now, I'm excited to take the next step and learn how to bring these digital creations into the physical world through various fabrication techniques.
+
+---
+
+## Portfolio
+
+### Featured Projects
+
+Here are some of the projects I've worked on during this course:
+
+#### Project 1: [Project Name]
+*Brief description of your first project*
+
+![Project 1](images/project1.jpg)
+
+#### Project 2: [Project Name]
+*Brief description of your second project*
+
+![Project 2](images/project2.jpg)
+
+#### Project 3: [Project Name]
+*Brief description of your third project*
+
+![Project 3](images/project3.jpg)
+
+---
+
+## Skills Level
+
+### Current Skills Assessment
+
+| Skill Area | Beginner | Intermediate | Advanced |
+|------------|----------|--------------|----------|
+| 3D Modeling | | ✅ | |
+| CAD Software | ✅ | | |
+| 3D Printing | | ✅ | |
+| CNC Machining | ✅ | | |
+| Laser Cutting | | ✅ | |
+| Material Selection | | ✅ | |
+| Design Iteration | | ✅ | |
+| Prototyping | | ✅ | |
+
+### Learning Goals
+
+By the end of this course, I aim to:
+
+- [ ] Master advanced 3D modeling techniques
+- [ ] Understand material properties and selection
+- [ ] Gain proficiency in multiple fabrication methods
+- [ ] Develop a systematic approach to design iteration
+- [ ] Create a comprehensive portfolio of fabricated projects
+- [ ] Understand the relationship between digital design and physical constraints
+
+### Technical Skills
+
+**Software Proficiency:**
+- CAD Software (Fusion 360, SolidWorks, etc.)
+- 3D Modeling (Blender, Rhino, etc.)
+- Slicing Software (Cura, PrusaSlicer, etc.)
+
+**Fabrication Methods:**
+- 3D Printing (FDM, SLA)
+- Laser Cutting
+- CNC Machining
+- Hand Tools and Finishing
+
+---
+
+## My View on the Course
+
+### Expectations and Excitement
+
+I'm incredibly excited about this **Modeling and Fabrication Techniques** course. The opportunity to learn both the theoretical foundations and practical applications of modern fabrication methods is exactly what I was looking for.
+
+### What I Hope to Learn
+
+1. **Design Thinking**: Understanding how to approach problems from a design perspective, considering both form and function.
+
+2. **Material Science**: Learning about different materials, their properties, and how to select the right material for each project.
+
+3. **Fabrication Techniques**: Gaining hands-on experience with various fabrication methods, understanding their strengths and limitations.
+
+4. **Iterative Design Process**: Developing the ability to prototype, test, and refine designs based on real-world feedback.
+
+5. **Problem Solving**: Learning to troubleshoot issues that arise during the fabrication process and develop creative solutions.
+
+### Course Structure
+
+This 9-day intensive course provides a perfect balance of:
+- **Theory**: Understanding the principles behind modeling and fabrication
+- **Practice**: Hands-on experience with tools and techniques
+- **Reflection**: Daily activities that help consolidate learning
+
+### Challenges and Growth
+
+I anticipate facing challenges in:
+- Understanding material constraints and limitations
+- Mastering the precision required for fabrication
+- Balancing design aesthetics with practical functionality
+
+However, I'm confident that through daily practice and reflection, I'll grow significantly in these areas. Each day's activity builds upon the previous, creating a comprehensive learning experience.
+
+### Final Thoughts
+
+This course is more than just learning technical skills—it's about developing a mindset of making, iterating, and improving. I'm looking forward to documenting my journey through these daily activities and seeing how my skills and understanding evolve over these 9 days.
+
+---
+
+## Course Overview
+
+This course runs for **9 days**, with each day focusing on specific aspects of modeling and fabrication. You can explore my daily activities and reflections in the navigation menu above.
+
+**Course Timeline:**
+- Day 1: Introduction and Fundamentals
+- Day 2-3: 3D Modeling Basics
+- Day 4-5: Material Selection and Preparation
+- Day 6-7: Fabrication Techniques
+- Day 8: Finishing and Post-Processing
+- Day 9: Final Project and Reflection
+
+---
+
+*Last updated: [Date will be auto-generated by git-revision-date plugin]*
